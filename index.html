@@ -9,8 +9,7 @@
   <meta name="author" content="lankyzheng">
 
   
-  <meta name="description" content="
-">
+  <meta name="description" content="有的时候需要发布博客，手头上只有windows电脑，还是借别人用的，异常绝望。因为我们通过windows以ssh方式登录上服务器后，发现输入中文时，出来全是乱码。rake generate不认怎么办。我想了个绕过去的方法，不用任何设置，只需要有Dropbox即可。 先解释我的方法。 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -94,7 +93,9 @@
   </header>
 
 
-  <div class="entry-content">
+  <div class="entry-content"><p>有的时候需要发布博客，手头上只有windows电脑，还是借别人用的，异常绝望。因为我们通过windows以ssh方式登录上服务器后，发现输入中文时，出来全是乱码。rake generate不认怎么办。我想了个绕过去的方法，不用任何设置，只需要有Dropbox即可。</p>
+
+<p>先解释我的方法。先用markdown写好博客，notepad下以UTF-8格式存好，放入Dropbox的Public文件夹，这样我们会得到一个链接，拷贝链接；在服务器端下，先设立新文档，命名新文档(建议按英文名命名，中文不识别的缘故),然后wget 拷好的链接，用cat命令将取回的博客添加到新文档后面，以保存完整的ymal的metadata。</p>
 </div>
   
   
