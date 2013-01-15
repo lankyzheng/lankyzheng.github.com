@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2013-01-15T07:12:11+00:00</updated>
+  <updated>2013-01-15T07:13:51+00:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -561,6 +561,9 @@ adb pull /data/data
 <p><a href="http://www.dynatrace.com/en/production-edition.aspx">Production Monitoring</a> is about ensuring the stability and health of our system, that also includes the application. A lot of times we encounter production systems that concentrate on System Monitoring, under the assumption that a stable system leads to stable and healthy applications. So let’s see what System Monitoring can tell us about our <a href="http://www.dynatrace.com/en/pe-advance-application-monitoring.aspx">Application</a>.</p>
 
 <p><a href="http://www.dynatrace.com/en/production-edition.aspx">生产系统监控</a>是为了确保系统以及应用的稳定性和健康。无数次偶们碰到只关注于系统监控的生产系统，并认为稳定的系统就能带来稳定健康的应用。那就看看看系统监控能告诉偶们哪些关于<a href="http://www.dynatrace.com/en/pe-advance-application-monitoring.aspx">应用</a>的信息吧。</p>
+
+<!--more-->
+
 
 <p>Let’s take a very simple two tier Web Application:</p>
 
