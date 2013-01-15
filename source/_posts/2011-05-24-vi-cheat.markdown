@@ -1,0 +1,12 @@
+---
+layout: post
+title: "vi cheat sheet"
+date: 2011-05-24 03:36
+comments: true
+categories: tech
+---
+每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！
+
+<!--more-->
+
+![Smaller icon](/images/vi-cheat.png "Title here")
