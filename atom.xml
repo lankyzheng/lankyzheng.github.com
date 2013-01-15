@@ -4,7 +4,7 @@
   <title><![CDATA[wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2013-01-15T03:39:52+00:00</updated>
+  <updated>2013-01-15T03:47:58+00:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -62,6 +62,9 @@
     <updated>2011-05-24T03:36:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/05/24/vi-cheat</id>
     <content type="html"><![CDATA[<p>每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！</p>
+
+<!--more-->
+
 
 <p><img src="http://lankyzheng.github.com/images/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
 ]]></content>
