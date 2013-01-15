@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | wannaCOOL.com]]></title>
+  <link href="http://lankyzheng.github.com/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://lankyzheng.github.com/"/>
+  <updated>2013-01-15T04:15:04+00:00</updated>
+  <id>http://lankyzheng.github.com/</id>
+  <author>
+    <name><![CDATA[lankyzheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[vi cheat sheet]]></title>
+    <link href="http://lankyzheng.github.com/blog/2011/05/24/vi-cheat/"/>
+    <updated>2011-05-24T03:36:00+00:00</updated>
+    <id>http://lankyzheng.github.com/blog/2011/05/24/vi-cheat</id>
+    <content type="html"><![CDATA[<p>每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！</p>
+
+<!--more-->
+
+
+<p><img src="/images/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
+]]></content>
+  </entry>
+  
+</feed>
