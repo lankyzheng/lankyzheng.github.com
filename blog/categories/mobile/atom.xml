@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[wannaCOOL.com]]></title>
-  <link href="http://lankyzheng.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: mobile | wannaCOOL.com]]></title>
+  <link href="http://lankyzheng.github.com/blog/categories/mobile/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
   <updated>2013-01-15T06:32:34+00:00</updated>
   <id>http://lankyzheng.github.com/</id>
@@ -12,49 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[上海合法兑换新台币攻略-2012元旦版]]></title>
-    <link href="http://lankyzheng.github.com/blog/2012/01/13/shanghaitaibi/"/>
-    <updated>2012-01-13T13:31:00+00:00</updated>
-    <id>http://lankyzheng.github.com/blog/2012/01/13/shanghaitaibi</id>
-    <content type="html"><![CDATA[<p>最近老妈要去台湾旅游，叫我给她换点新台币。记得两年前，我去台湾之前，特意去中国银行问过兑换新台币的事情，当时一个面目狰狞的女营业员一脸鄙视的告诉我，“中国大陆没有银行能换台币的！” 时过境迁，那现在情况究竟如何呢？？？</p>
-
-<!--more-->
-
-
-<h1>网上搜索</h1>
-
-<p>这次我专门先在网上搜索了一下，找到2个关键信息。</p>
-
-<p>2010年4月27日，东方早报新闻<a href="http://epaper.dfdaily.com/dfzb/html/2010-04/27/content_235097.htm">《交行在沪启动新台币双向兑换》</a></p>
-
-<p>2010年5月13日，东方早报新闻<a href="http://epaper.dfdaily.com/dfzb/html/2010-05/13/content_245765.htm">《四银行获准在沪开办新台币兑换业务》</a></p>
-
-<p>可见，2010年世博期间，为了方便对岸同胞来参观世博，上海有4家银行是允许双向兑换新台币。但是，世博结束1年多了，不知道目前的情况如何。</p>
-
-<h1>电话咨询</h1>
-
-<p>我给交行客服热线95559打了个电话，询问上海目前是否还保留这项兑换业务。接电话的MM果然不清楚，但是态度很好，让我别挂她去问后台，在等待了几分钟之后，给我的答复是：</p>
-
-<ol>
-<li>目前这项业务应该是还可以的；</li>
-<li>不是每个营业点都可以，MM热心的帮我查询了长宁区和浦东新区的两个能兑换的营业点；</li>
-<li>即使能兑换的营业点，也不保证有足够的新台币供兑换，最好去之前电话询问预约好，MM又热心的查询了营业点电话给我。</li>
-</ol>
-
-
-<p>之后，我电话长宁区江苏路交通银行网点，果然，只有大概1万新台币，而且基本上都是1000元面值。不过对我也OK了。</p>
-
-<h1>实际兑换</h1>
-
-<p>接下来就趁中午午休时间，直接杀过去了！到了交行，领了号，兑换外币属于个人业务，等的时间真漫长啊！过程中还有一点要注意，兑换需要使用人民币现金，或者本行银行卡。我没有交行的银行卡，只好趁等叫号的时间，在ATM排队取了现金。</p>
-
-<p>最后，顺利拿到1万新台币，9张1000元，10张100元。付出人民币2165元！具体汇率大家自己算吧，我看了水单，貌似人民币和新台币没有官方直接汇率，都是通过美元转换的。</p>
-
-<h6>EOF</h6>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[[中英对照] Security Issues in Android Custom ROMs：定制ROM的安全问题]]></title>
@@ -576,20 +533,6 @@ adb pull /data/data
 <p><a href="http://android.com">http://android.com</a></p>
 
 <p><a href="http://cyanogenmod.com">http://cyanogenmod.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[vi cheat sheet]]></title>
-    <link href="http://lankyzheng.github.com/blog/2011/05/24/vi-cheat/"/>
-    <updated>2011-05-24T03:36:00+00:00</updated>
-    <id>http://lankyzheng.github.com/blog/2011/05/24/vi-cheat</id>
-    <content type="html"><![CDATA[<p>每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！</p>
-
-<!--more-->
-
-
-<p><img src="http://lankyzheng.github.com/images/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
 ]]></content>
   </entry>
   
