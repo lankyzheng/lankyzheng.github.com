@@ -1,4 +1,4 @@
-## DarkStripes Octopress theme
+# DarkStripes Octopress theme
 
 This is an Octopress theme based on a "classic" theme customization found at http://melandri.net
 
