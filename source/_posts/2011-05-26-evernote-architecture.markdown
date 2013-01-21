@@ -1,17 +1,19 @@
 ---
 layout: post
 title: "[中英对照] Evernote Architecture – 9 Million Users and 150 Million Requests a Day : Evernote架构-9百万用户和每天1亿5千万请求"
-date: 2011-05-25 07:53
+date: 2011-05-26 07:53
 comments: true
 categories: tech
 ---
+![banner](http://pic.yupoo.com/lankyzheng/Czi6fplr/kO5Mi.png "banner")
+
+<!--more-->
+
 原文地址：[http://highscalability.com/blog/2011/5/23/evernote-architecture-9-million-users-and-150-million-reques.html](http://highscalability.com/blog/2011/5/23/evernote-architecture-9-million-users-and-150-million-reques.html)
 
 The folks at Evernote were kind enough to write up an overview of their architecture in a post titled Architectural Digest. Dave Engberg describes their approach to networking, sharding, user storage, search, and some other custom services.
 
 Evernote的那帮哥们挺不错的，写了篇文章叫Architectural Digest来讲他们的架构概况。Dave Engberg描述了他们在网络、shard、用户存储、搜索以及其他定制服务方面的实现。
-
-<!--more-->
 
 Evernote is a cool application, partially realizing [Vannevar Bush](http://en.wikipedia.org/wiki/Vannevar_Bush)‘s amazing vision of a [memex](http://en.wikipedia.org/wiki/Memex). Wikipedia describes Evernote’s features succinctly:
 

@@ -5,13 +5,15 @@ date: 2011-05-25 07:41
 comments: true
 categories: tech
 ---
+![banner](http://pic.yupoo.com/lankyzheng/Czi4gbZz/11DByW.png "banner")
+
+<!--more-->
+
 原文地址：[http://blog.evernote.com/tech/2011/05/17/architectural-digest/](http://blog.evernote.com/tech/2011/05/17/architectural-digest/)
 
 Let’s get things started with a coarse-grained overview of the physical makeup of the Evernote service. I won’t go into a lot of detail on each component here; we’ll aim to talk about the interesting bits in separate posts later.
 
 咱们先从Evernote服务物理构成的初步概况开始。偶不会深入到各个部分的细节中去；偶们计划将来另开新帖来讨论有意思的要点。
-
-<!--more-->
 
 ![image01](http://blog.evernote.com/tech/files/2011/05/evernote-highlevel-architecture1-282x300.png)
 

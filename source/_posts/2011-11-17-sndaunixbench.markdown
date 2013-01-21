@@ -5,11 +5,13 @@ date: 2011-11-17 07:59
 comments: true
 categories: tech
 ---
+![banner](http://pic.yupoo.com/lankyzheng/Czi1S8jy/P2iSG.jpg "banner")
+
+<!--more-->
+
 盛大云主机，默认送了100块钱，选了最小配置的那个，40几块包月，以为能用2个月，结果发现IP地址每天要收1块钱，坑爹啊！难道还有人用vps不用公网IP的吗？？？！！！
 
 用unixbench跑了一把，结果大家看吧！
-
-<!--more-->
 
 ```
 

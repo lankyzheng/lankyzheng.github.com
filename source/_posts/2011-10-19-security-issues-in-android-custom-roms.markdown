@@ -5,6 +5,10 @@ date: 2011-10-19 06:25
 comments: true
 categories: tech mobile
 ---
+![banner](http://pic.yupoo.com/lankyzheng/Czi9uqZt/JyV3F.png "banner")
+
+<!--more-->
+
 原文连接：[http://anantshri.info/articles/android_cust_rom_security.html](http://anantshri.info/articles/android_cust_rom_security.html)
 
 #Abstract：摘要
@@ -12,8 +16,6 @@ categories: tech mobile
 This paper attempts to look behind the wheels of android and keeping special focus on custom rom’s and basically check for security misconfiguration’s which could yield to device compromise, which may result in malware infection or data theft.
 
 本文试图着眼Android内部并特别关注第定制ROM，初步检查安全方面的错误配置，这些问题可能导致感染恶意软件、数据被盗，致使设备被黑。
-
-<!--more-->
 
 #Introduction to Android：介绍
 

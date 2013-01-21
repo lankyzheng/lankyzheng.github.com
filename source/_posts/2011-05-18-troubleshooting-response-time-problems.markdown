@@ -5,14 +5,17 @@ date: 2011-05-18 07:10
 comments: true
 categories: tech
 ---
+![banner](http://pic.yupoo.com/lankyzheng/Czi9urZ2/b3FpL.jpg "banner")
+
+<!--more-->
+
+
 原文地址：[http://highscalability.com/blog/2011/5/11/troubleshooting-response-time-problems-why-you-cannot-trust.html
 ](http://highscalability.com/blog/2011/5/11/troubleshooting-response-time-problems-why-you-cannot-trust.html)
 
 [Production Monitoring](http://www.dynatrace.com/en/production-edition.aspx) is about ensuring the stability and health of our system, that also includes the application. A lot of times we encounter production systems that concentrate on System Monitoring, under the assumption that a stable system leads to stable and healthy applications. So let’s see what System Monitoring can tell us about our [Application](http://www.dynatrace.com/en/pe-advance-application-monitoring.aspx).
 
 [生产系统监控](http://www.dynatrace.com/en/production-edition.aspx)是为了确保系统以及应用的稳定性和健康。无数次偶们碰到只关注于系统监控的生产系统，并认为稳定的系统就能带来稳定健康的应用。那就看看看系统监控能告诉偶们哪些关于[应用](http://www.dynatrace.com/en/pe-advance-application-monitoring.aspx)的信息吧。
-
-<!--more-->
 
 Let’s take a very simple two tier Web Application:
 
