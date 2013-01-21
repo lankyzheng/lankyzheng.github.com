@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tech | wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2013-01-21T08:18:52+00:00</updated>
+  <updated>2013-01-21T15:55:19+00:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Free github in China]]></title>
+    <link href="http://lankyzheng.github.com/blog/2013/01/21/free-github-in-china/"/>
+    <updated>2013-01-21T15:53:00+00:00</updated>
+    <id>http://lankyzheng.github.com/blog/2013/01/21/free-github-in-china</id>
+    <content type="html"><![CDATA[<h1>FREE GITHUB in CHINA!</h1>
+
+<!--more-->
+
+
+<p><img src="http://pic.yupoo.com/lankyzheng/CAdhRpKi/N7B6e.jpg" title="freegithub" alt="freegithub" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[盛大云主机的unixbench测试报告]]></title>
@@ -788,22 +802,6 @@ adb pull /data/data
 <p>偶们争取在未来几个月来更详尽的解答这些问题。</p>
 
 <h6>EOF</h6>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[vi cheat sheet]]></title>
-    <link href="http://lankyzheng.github.com/blog/2011/05/24/vi-cheat/"/>
-    <updated>2011-05-24T03:36:00+00:00</updated>
-    <id>http://lankyzheng.github.com/blog/2011/05/24/vi-cheat</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/CzibVCiQ/lLkgu.png" title="banner" alt="banner" /></p>
-
-<!--more-->
-
-
-<blockquote><p>每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！</p></blockquote>
-
-<p><img src="/images/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
 ]]></content>
   </entry>
   
