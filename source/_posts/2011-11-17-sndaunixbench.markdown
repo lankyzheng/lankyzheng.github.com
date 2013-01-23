@@ -5,7 +5,7 @@ date: 2011-11-17 07:59
 comments: true
 categories: tech
 ---
-![banner](http://pic.yupoo.com/lankyzheng/Czi1S8jy/P2iSG.jpg "banner")
+![banner](/images/pics/P2iSG.jpg "banner")
 
 <!--more-->
 

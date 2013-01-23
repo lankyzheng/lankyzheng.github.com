@@ -5,7 +5,7 @@ date: 2012-01-13 13:31
 comments: true
 categories: life
 ---
-![banner](http://pic.yupoo.com/lankyzheng/CzhWAgqp/5hbWb.png "banner")
+![banner](/images/pics/5hbWb.png "banner")
 
 <!--more-->
 

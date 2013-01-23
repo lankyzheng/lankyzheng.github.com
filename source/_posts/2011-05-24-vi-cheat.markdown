@@ -5,10 +5,10 @@ date: 2011-05-24 03:36
 comments: true
 categories: tech
 ---
-![banner](http://pic.yupoo.com/lankyzheng/CzibVCiQ/lLkgu.png "banner")
+![banner](/images/pics/lLkgu.png "banner")
 
 <!--more-->
 
 >每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！
 
-![Smaller icon](/images/vi-cheat.png "Title here")
+![Smaller icon](/images/pics/vi-cheat.png "Title here")

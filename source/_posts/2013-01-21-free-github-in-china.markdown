@@ -9,4 +9,4 @@ categories: tech
 
 <!--more-->
 
-![freegithub](http://pic.yupoo.com/lankyzheng/CAdhRpKi/medish.jpg "freegithub")
+![freegithub](/images/pics/medish.jpg "freegithub")

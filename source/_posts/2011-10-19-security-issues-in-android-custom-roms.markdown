@@ -5,7 +5,7 @@ date: 2011-10-19 06:25
 comments: true
 categories: tech mobile
 ---
-![banner](http://pic.yupoo.com/lankyzheng/Czi9uqZt/JyV3F.png "banner")
+![banner](/images/pics/JyV3F.png "banner")
 
 <!--more-->
 
