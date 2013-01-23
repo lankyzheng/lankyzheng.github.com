@@ -4,7 +4,7 @@
   <title><![CDATA[wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2013-01-23T04:06:41+00:00</updated>
+  <updated>2013-01-23T04:15:25+00:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -23,7 +23,7 @@
 <!--more-->
 
 
-<p><img src="http://pic.yupoo.com/lankyzheng/CAdhRpKi/medish.jpg" title="freegithub" alt="freegithub" /></p>
+<p><img src="http://lankyzheng.github.com/images/pics/medish.jpg" title="freegithub" alt="freegithub" /></p>
 ]]></content>
   </entry>
   
@@ -32,7 +32,7 @@
     <link href="http://lankyzheng.github.com/blog/2012/01/13/shanghaitaibi/"/>
     <updated>2012-01-13T13:31:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2012/01/13/shanghaitaibi</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/CzhWAgqp/5hbWb.png" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/5hbWb.png" title="banner" alt="banner" /></p>
 
 <!--more-->
 
@@ -77,7 +77,7 @@
     <link href="http://lankyzheng.github.com/blog/2011/11/17/sndaunixbench/"/>
     <updated>2011-11-17T07:59:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/11/17/sndaunixbench</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/Czi1S8jy/P2iSG.jpg" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/P2iSG.jpg" title="banner" alt="banner" /></p>
 
 <!--more-->
 
@@ -260,7 +260,7 @@
     <link href="http://lankyzheng.github.com/blog/2011/10/19/security-issues-in-android-custom-roms/"/>
     <updated>2011-10-19T06:25:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/10/19/security-issues-in-android-custom-roms</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/Czi9uqZt/JyV3F.png" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/JyV3F.png" title="banner" alt="banner" /></p>
 
 <!--more-->
 
@@ -785,7 +785,7 @@ adb pull /data/data
     <link href="http://lankyzheng.github.com/blog/2011/05/26/evernote-architecture/"/>
     <updated>2011-05-26T07:53:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/05/26/evernote-architecture</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/Czi6fplr/kO5Mi.png" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/kO5Mi.png" title="banner" alt="banner" /></p>
 
 <!--more-->
 
@@ -847,7 +847,7 @@ adb pull /data/data
     <link href="http://lankyzheng.github.com/blog/2011/05/25/a-digest-of-evernotes-architecture/"/>
     <updated>2011-05-25T07:41:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/05/25/a-digest-of-evernotes-architecture</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/Czi4gbZz/11DByW.png" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/11DByW.png" title="banner" alt="banner" /></p>
 
 <!--more-->
 
@@ -929,14 +929,14 @@ adb pull /data/data
     <link href="http://lankyzheng.github.com/blog/2011/05/24/vi-cheat/"/>
     <updated>2011-05-24T03:36:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/05/24/vi-cheat</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/CzibVCiQ/lLkgu.png" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/lLkgu.png" title="banner" alt="banner" /></p>
 
 <!--more-->
 
 
 <blockquote><p>每一个做Linux SA的同学都需要一份vi cheat sheet，打印出来贴在床头吧！</p></blockquote>
 
-<p><img src="http://lankyzheng.github.com/images/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
+<p><img src="http://lankyzheng.github.com/images/pics/vi-cheat.png" title="Title here" alt="Smaller icon" /></p>
 ]]></content>
   </entry>
   
@@ -945,7 +945,7 @@ adb pull /data/data
     <link href="http://lankyzheng.github.com/blog/2011/05/18/troubleshooting-response-time-problems/"/>
     <updated>2011-05-18T07:10:00+00:00</updated>
     <id>http://lankyzheng.github.com/blog/2011/05/18/troubleshooting-response-time-problems</id>
-    <content type="html"><![CDATA[<p><img src="http://pic.yupoo.com/lankyzheng/Czi9urZ2/b3FpL.jpg" title="banner" alt="banner" /></p>
+    <content type="html"><![CDATA[<p><img src="http://lankyzheng.github.com/images/pics/b3FpL.jpg" title="banner" alt="banner" /></p>
 
 <!--more-->
 
