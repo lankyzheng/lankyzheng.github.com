@@ -4,7 +4,7 @@
   <title><![CDATA[wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2013-11-07T14:10:21+08:00</updated>
+  <updated>2013-11-21T11:42:23+08:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Win8 wi-fi manager]]></title>
+    <link href="http://lankyzheng.github.com/blog/2013/11/21/win8wifi/"/>
+    <updated>2013-11-21T11:43:00+08:00</updated>
+    <id>http://lankyzheng.github.com/blog/2013/11/21/win8wifi</id>
+    <content type="html"><![CDATA[<h1>微软官方管理无线网络配置</h1>
+
+<p>适用于Windows 8、Windows RT</p>
+
+<!--more-->
+
+
+<p><strong>显示电脑上的所有无线配置文件</strong></p>
+
+<pre><code>netsh wlan show profiles
+</code></pre>
+
+<p><strong>显示范围外某个配置文件的安全密钥</strong></p>
+
+<pre><code>netsh wlan show profile name="ProfileName" key=clear
+</code></pre>
+
+<p><strong>删除范围外的某个配置文件</strong></p>
+
+<pre><code>netsh wlan delete profile name="ProfileName"
+</code></pre>
+
+<p><strong>支持通配符批量删除</strong></p>
+
+<pre><code>netsh wlan delete profile name=*
+</code></pre>
+
+<p><strong>停止自动连接到范围外的网络</strong></p>
+
+<pre><code>netsh wlan set profileparameter name="ProfileName" connectionmode=manual
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Free github in China]]></title>
