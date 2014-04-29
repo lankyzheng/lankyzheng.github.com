@@ -4,7 +4,7 @@
   <title><![CDATA[wannaCOOL.com]]></title>
   <link href="http://lankyzheng.github.com/atom.xml" rel="self"/>
   <link href="http://lankyzheng.github.com/"/>
-  <updated>2014-04-30T00:23:21+08:00</updated>
+  <updated>2014-04-30T00:26:36+08:00</updated>
   <id>http://lankyzheng.github.com/</id>
   <author>
     <name><![CDATA[lankyzheng]]></name>
@@ -14,19 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Tb]]></title>
+    <title type="html"><![CDATA[亲身经历--奇葩的淘宝账户被处罚经历]]></title>
     <link href="http://lankyzheng.github.com/blog/2014/04/29/tb/"/>
-    <updated>2014-04-29T00:00:00+08:00</updated>
+    <updated>2014-04-29T11:43:00+08:00</updated>
     <id>http://lankyzheng.github.com/blog/2014/04/29/tb</id>
-    <content type="html"><![CDATA[<hr />
-
-<p>layout: post
-title: &#8220;fight taobao&#8221;
-date: 2014-04-29 11:43
-comments: true
-categories: tech</p>
-
-<h3>亲身经历&#8211;奇葩的淘宝账户被处罚经历</h3>
+    <content type="html"><![CDATA[<h3>亲身经历&#8211;奇葩的淘宝账户被处罚经历</h3>
 
 <p>中午在淘宝发布了一条个人真实的二手物品，晚上就发现账号莫名被“处罚”了，原因是存在安全隐患，各种处罚限制、45天后冻结账号。</p>
 
